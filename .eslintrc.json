@@ -15,6 +15,7 @@
     "plugins": [
         "react",
         "import",
+        "@babel",
         "jsx-a11y"
     ],
     "parserOptions": {
